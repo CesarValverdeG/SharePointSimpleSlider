@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8f746f03-ebbe-4d30-a7f3-56c0cd970242" solutionId="8f746f03-ebbe-4d30-a7f3-56c0cd970242" resetWebServer="false" sharePointProductVersion="19.0" name="SharePointSimpleSlider" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="80ee83e3-d3fa-40f2-82a2-b6271a351019" />
+  </features>
+</package>
